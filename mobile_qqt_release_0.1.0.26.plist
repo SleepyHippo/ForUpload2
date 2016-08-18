@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?><plist version="1.0">
+	<dict>
+		<key>items</key>
+		<array>
+			<dict>
+				<key>assets</key>
+				<array>
+					<dict>
+						<key>kind</key>
+						<string>software-package</string>
+						<key>url</key>
+						<string>http://dldir1.qq.com/QQTTV/ipa/mobile_qqt_release_0.1.0.269.ipa</string>
+					</dict>
+					<dict>
+						<key>kind</key>
+						<string>display-image</string>
+						<key>needs-shine</key>
+						<true/>
+						<key>url</key>
+						<string>http://soda.oa.com/notfound.png</string>
+					</dict>
+				</array>
+				<key>metadata</key>
+				<dict>
+					<key>bundle-identifier</key>
+					<string>com.tencent.tmgp.QQTTV</string>
+					<key>bundle-version</key>
+					<string>0.1.0(0.1.0.269)</string>
+					<key>kind</key>
+					<string>software</string>
+					<key>title</key>
+					<string>QQ堂</string>
+				</dict>
+			</dict>
+		</array>
+	</dict>
+</plist>
